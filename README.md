@@ -12,19 +12,11 @@ Either run
 ```
 composer require --prefer-dist jinxinauzn/yii2-admin "dev-master"
 ```
-- branch
-```
-composer require --prefer-dist jinxinauzn/yii2-admin "dev-branch"
-```
 
 or add
 - master
 ```
 "jinxinauzn/yii2-admin": "dev-master"
-```
-- branch
-```
-"jinxinauzn/yii2-admin": "dev-branch"
 ```
 
 to the require section of your `composer.json` file.
